@@ -1,0 +1,29 @@
+Ecourse(Cybrary)
+Hackerone reports(Individual program reports and from after hacktivity report([out-of-scope]toxiproxy:Lack of CSRF protection...-Shopify)
+Blogs(xpoc.pro,codecancare.com,https://labs.detectify.com/2018/03/14/graphql-abuse/)
+Books
+Followers-twitter.com/uraniumhacker
+
+
+
+361337-Missing backend user input validation of profile names can lead to DOS Flaw
+351171-Xss
+313250-Xss
+292457-Xss
+291057-Source code Disclosure
+277300-Captcha Bypass
+182414-Xss
+197059,221250-Information Disclosure via ".json" parameter
+181528-Xss
+225326-CSRF
+197726-Information Disclosure
+263169-Internal ports scanning via blind SSRF
+167460-Session hijacking
+154278-Cache PURGE requests are not authenticated
+123078-Open redirect
+123095,123092-CSRF
+152368-Xss
+123091-No rate limitation
+119090-Reflected Xss
+114799,114797-Improper authentication
+115922-Improper access control
